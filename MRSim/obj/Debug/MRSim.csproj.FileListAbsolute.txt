@@ -1,0 +1,7 @@
+C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\bin\Debug\MRSim.dll
+C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\bin\Debug\MRSim.pdb
+C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\bin\Debug\agxDotNet.dll
+C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.csprojResolveAssemblyReference.cache
+C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.csproj.CoreCompileInputs.cache
+C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.dll
+C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.pdb
