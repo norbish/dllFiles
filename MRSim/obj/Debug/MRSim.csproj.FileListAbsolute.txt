@@ -5,3 +5,9 @@ C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.csprojResolve
 C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.csproj.CoreCompileInputs.cache
 C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.dll
 C:\Users\torsu\Desktop\MRSim\MRSim_DLL\MRSim\MRSim\obj\Debug\MRSim.pdb
+C:\Users\torsu\Desktop\MODSIM\dllFiles\MRSim\bin\Debug\MRSim.dll
+C:\Users\torsu\Desktop\MODSIM\dllFiles\MRSim\bin\Debug\MRSim.pdb
+C:\Users\torsu\Desktop\MODSIM\dllFiles\MRSim\obj\Debug\MRSim.csproj.CoreCompileInputs.cache
+C:\Users\torsu\Desktop\MODSIM\dllFiles\MRSim\obj\Debug\MRSim.dll
+C:\Users\torsu\Desktop\MODSIM\dllFiles\MRSim\obj\Debug\MRSim.pdb
+C:\Users\torsu\Desktop\MODSIM\dllFiles\MRSim\obj\Debug\MRSim.csprojResolveAssemblyReference.cache

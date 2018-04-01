@@ -1,0 +1,7 @@
+C:\Users\torsu\Desktop\MODSIM\dllFiles\AgX_Interface\bin\Debug\AgX_Interface.dll
+C:\Users\torsu\Desktop\MODSIM\dllFiles\AgX_Interface\bin\Debug\AgX_Interface.pdb
+C:\Users\torsu\Desktop\MODSIM\dllFiles\AgX_Interface\bin\Debug\agxDotNet.dll
+C:\Users\torsu\Desktop\MODSIM\dllFiles\AgX_Interface\obj\Debug\AgX_Interface.csprojResolveAssemblyReference.cache
+C:\Users\torsu\Desktop\MODSIM\dllFiles\AgX_Interface\obj\Debug\AgX_Interface.csproj.CoreCompileInputs.cache
+C:\Users\torsu\Desktop\MODSIM\dllFiles\AgX_Interface\obj\Debug\AgX_Interface.dll
+C:\Users\torsu\Desktop\MODSIM\dllFiles\AgX_Interface\obj\Debug\AgX_Interface.pdb

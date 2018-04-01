@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRSim", "MRSim\MRSim.csproj", "{24CA9969-10FA-4544-B72E-AFC3233DF1B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation_Core", "Simulation_Core\Simulation_Core.csproj", "{CC4E6392-73B6-4570-BE70-C845043AEDD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgX_Interface", "AgX_Interface\AgX_Interface.csproj", "{20C799B4-C959-436B-B9C6-2591B9E61FF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{24CA9969-10FA-4544-B72E-AFC3233DF1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24CA9969-10FA-4544-B72E-AFC3233DF1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24CA9969-10FA-4544-B72E-AFC3233DF1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4E6392-73B6-4570-BE70-C845043AEDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4E6392-73B6-4570-BE70-C845043AEDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4E6392-73B6-4570-BE70-C845043AEDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4E6392-73B6-4570-BE70-C845043AEDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C799B4-C959-436B-B9C6-2591B9E61FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C799B4-C959-436B-B9C6-2591B9E61FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C799B4-C959-436B-B9C6-2591B9E61FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C799B4-C959-436B-B9C6-2591B9E61FF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
